@@ -48,6 +48,7 @@ img {
   font-style: italic;
 }
 
+main h2:nth-child(4),
 main h2:nth-child(5) {
   font-size: 1rem;
 }
